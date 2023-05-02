@@ -1,2 +1,1 @@
-# SelfStudyJava
-# SelfStudyJava
+# 혼자서 공부하는 자바 학습
